@@ -1,0 +1,98 @@
+{
+  "en": {
+    "nav": {
+      "home": "Home",
+      "products": "Products",
+      "cropDoctor": "Crop Doctor",
+      "cropGuide": "Crop Guide",
+      "about": "About",
+      "contact": "Contact",
+      "search": "Search",
+      "language": "Language"
+    },
+    "hero": {
+      "headline": "Grow Better. Farm Smarter.",
+      "subheadline": "Fertilizers, crop protection, micronutrients and AI-powered crop guidance — all in one place.",
+      "ctaPrimary": "Explore Products",
+      "ctaSecondary": "Ask AI Crop Doctor",
+      "ctaTertiary": "Contact Us"
+    },
+    "products": {
+      "title": "Products",
+      "fertilizers": "Fertilizers",
+      "micronutrients": "Micronutrients",
+      "herbicides": "Herbicides",
+      "fungicides": "Fungicides",
+      "insecticides": "Insecticides",
+      "biostimulants": "Biostimulants",
+      "pgr": "Plant Growth Regulators",
+      "seeds": "Seeds",
+      "organic": "Organic / Bio Inputs"
+    },
+    "cropDoctor": {
+      "title": "AI Crop Doctor",
+      "subtitle": "Your 24×7 AI Agricultural Assistant",
+      "description": "Upload a crop image, describe the problem, and get an AI-assisted analysis.",
+      "selectCrop": "Select Crop",
+      "uploadImage": "Upload Image",
+      "describeSymptoms": "Describe Symptoms",
+      "analyze": "Analyze",
+      "possibleIssue": "Possible Issue",
+      "confidence": "Confidence"
+    },
+    "footer": {
+      "copyright": "© 2024 Sri Krushi Bhandara. All rights reserved.",
+      "address": "Near SBI Bank, Rajanasiriyur Road, Halebeedu - 573121",
+      "phone": "Phone",
+      "gstin": "GSTIN"
+    }
+  },
+  "kn": {
+    "nav": {
+      "home": "ಮುಖಪುಟ",
+      "products": "ಉತ್ಪನ್ನಗಳು",
+      "cropDoctor": "ಬೆಳೆ ವೈದ್ಯ",
+      "cropGuide": "ಬೆಳೆ ಮಾರ್ಗದರ್ಶನ",
+      "about": "ನಮ್ಮ ಬಗ್ಗೆ",
+      "contact": "ಸಂಪರ್ಕಿಸಿ",
+      "search": "ಹುಡುಕಿ",
+      "language": "ಭಾಷೆ"
+    },
+    "hero": {
+      "headline": "ಉತ್ತಮವಾಗಿ ಬೆಳೆಯಿರಿ. ಸ್ಮಾರ್ಟ್ ಕೃಷಿ.",
+      "subheadline": "ಸಾರಗಳು, ಬೆಳೆ ರಕ್ಷಣೆ, ಸೂಕ್ಷ್ಮ ಪೌಷ್ಠಿಕಾಂಶಗಳು ಮತ್ತು AI-ಚಾಲಿತ ಬೆಳೆ ಮಾರ್ಗದರ್ಶನ — ಎಲ್ಲವೂ ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ.",
+      "ctaPrimary": "ಉತ್ಪನ್ನಗಳನ್ನು ಅನ್ವೇಷಿಸಿ",
+      "ctaSecondary": "AI ಬೆಳೆ ವೈದ್ಯನನ್ನು ಕೇಳಿ",
+      "ctaTertiary": "ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ"
+    },
+    "products": {
+      "title": "ಉತ್ಪನ್ನಗಳು",
+      "fertilizers": "ಸಾರಗಳು",
+      "micronutrients": "ಸೂಕ್ಷ್ಮ ಪೌಷ್ಠಿಕಾಂಶಗಳು",
+      "herbicides": "ಕಳೆತೋಡುಗಳನ್ನು ನಶ್ಯಕಾರಿ",
+      "fungicides": "ಶಿಲೀಂಧ್ರ ನಿರೋಧಕ",
+      "insecticides": "ಸಂಕೋಚನ ನಿರೋಧಕ",
+      "biostimulants": "ಜೈವ ಪ್ರಕುಂಚಕಗಳು",
+      "pgr": "ಸಸ್ಯ ಬೆಳವಣಿಗೆ ನಿಯಂತ್ರಕಗಳು",
+      "seeds": "ಬೀಜಗಳು",
+      "organic": "ಜೈವ / ಜೈವ ಇನ್ಪುಟ್‌ಗಳು"
+    },
+    "cropDoctor": {
+      "title": "AI ಬೆಳೆ ವೈದ್ಯ",
+      "subtitle": "ನಿಮ್ಮ 24×7 AI ಕೃಷಿ ಸಹಾಯಕ",
+      "description": "ಬೆಳೆ ಚಿತ್ರವನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ, ಸಮಸ್ಯೆಯನ್ನು ವಿವರಿಸಿ, ಮತ್ತು AI-ನೆರವಿಯ ಅನಾಲಿಸಿಸ್ ಪಡೆಯಿರಿ.",
+      "selectCrop": "ಬೆಳೆ ಆಯ್ಕೆ",
+      "uploadImage": "ಚಿತ್ರ ಅಪ್‌ಲೋಡ್",
+      "describeSymptoms": "ರೋಗಲಕ್ಷಣಗಳನ್ನು ವಿವರಿಸಿ",
+      "analyze": "ವಿಶ್ಲೇಷಿಸಿ",
+      "possibleIssue": "ಸಂಭವ್ಯ ಸಮಸ್ಯೆ",
+      "confidence": "ವಿಶ್ವಾಸ"
+    },
+    "footer": {
+      "copyright": "© 2024 ಶ್ರೀ ಕೃಷಿ ಭಂಡಾರ. ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿ.",
+      "address": "SBI ಬ್ಯಾಂಕ್ ಸಮೀಪದಲ್ಲಿ, ರಾಜನಸಿರಿಯೂರ ರಸ್ತೆ, ಹಲೆಬೀಡು - 573121",
+      "phone": "ಫೋನ್",
+      "gstin": "GSTIN"
+    }
+  }
+}
